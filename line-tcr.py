@@ -35,7 +35,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [R.A] BOT Menu V.2
+helpMessage ="Help" [R.A] BOT Menu V.2
 
 --* Command Public
 
